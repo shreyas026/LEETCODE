@@ -219,3 +219,15 @@ MIT License — see [LICENSE](LICENSE)
 ## 🔗 Links
 - **LeetCode Profile**: https://leetcode.com/shreyas026/
 - **Repository**: https://github.com/shreyas026/LEETCODE
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2409-count-days-spent-together](https://github.com/shreyas026/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2409-count-days-spent-together](https://github.com/shreyas026/LEETCODE/tree/main/2409-count-days-spent-together/) | Easy |
+<!---LeetCode Topics End-->
